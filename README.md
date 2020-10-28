@@ -30,7 +30,9 @@ To learn and explore MongoDB, the document store NoSQL database
 2. Make an account on MongoDB Atlas https://www.mongodb.com/cloud/atlas
  - Make a user, allow access from any IP, load sample datasets and connect to this cloud database using MongoDB compass
 
-3. Follow the queries and commands as given in this web link https://www.tutorialspoint.com/mongodb/index.htm
+3. Follow the queries and commands as given in these web links 
+ - https://docs.mongodb.com/manual/introduction/
+ - https://www.tutorialspoint.com/mongodb/index.htm
 
 ### Final list of Deliverables for Expt 4  
 
@@ -39,6 +41,9 @@ Queries related to
   - Dropping Databases, Collections 
   - Inserting, Updation, Deletion of Documents (self made and on the sample dataset provided by MongoDB Atlas)
   - Projection, Limit, Sort, Indexing, Aggregation of Documents (self made and on the sample dataset provided by MongoDB Atlas)
+  
+Register for the free MongoDB course at https://university.mongodb.com/
+ - Enrol for any of the courses M001, M100, M121
 
 ### Procedure 
 - **ADD THE PROCEDURE THAT YOU FOLLOWED FOR COMPLETING THE EXPERIMENT HERE**
