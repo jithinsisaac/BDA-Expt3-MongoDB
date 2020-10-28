@@ -18,7 +18,7 @@ To learn and explore MongoDB, the document store NoSQL database
 - Installation of MongoDB on Linux/WSL/Windows
 - Basic Querying operations in MongoDB
 - Making an account in MongoDB Atlas
-- Performing CRUD operations on MongoDB sample databases
+- Performing CRUD operations on MongoDB sample datasets given by MongoDB Atlas
 
 ### Instructions
 
@@ -28,6 +28,7 @@ To learn and explore MongoDB, the document store NoSQL database
   - Windows Subsystem for Linux-WSL https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database#install-mongodb
 
 2. Make an account on MongoDB Atlas https://www.mongodb.com/cloud/atlas
+ - Make a user, allow access from any IP, load sample datasets and connect to this cloud database using MongoDB compass
 
 3. Follow the queries and commands as given in this web link https://www.tutorialspoint.com/mongodb/index.htm
 
@@ -36,8 +37,8 @@ To learn and explore MongoDB, the document store NoSQL database
 Queries related to
   - Creating Databases, Collection 
   - Dropping Databases, Collections 
-  - Inserting, Updation, Deletion of Documents
-  - Projection, Limit, Sort, Indexing, Aggregation of Documents
+  - Inserting, Updation, Deletion of Documents (self made and on the sample dataset provided by MongoDB Atlas)
+  - Projection, Limit, Sort, Indexing, Aggregation of Documents (self made and on the sample dataset provided by MongoDB Atlas)
 
 ### Procedure 
 - **ADD THE PROCEDURE THAT YOU FOLLOWED FOR COMPLETING THE EXPERIMENT HERE**
