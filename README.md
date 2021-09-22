@@ -32,6 +32,7 @@ To learn and explore MongoDB, the document store NoSQL database
 3. Follow the queries and commands as given in these web links 
  - https://docs.mongodb.com/manual/introduction/
  - https://www.tutorialspoint.com/mongodb/index.htm
+ - PDF: http://mdslab.unime.it/sites/default/files/mongodb_tutorial.pdf
 
 ### Final list of Deliverables for Expt 5  
 
